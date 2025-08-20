@@ -1,0 +1,3 @@
+"""
+MarketMine Bot - Root package
+""" 

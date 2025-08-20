@@ -1,0 +1,646 @@
+Cuisine,Meal Name,Ingredient,Ingredient,Quantity (g),Calories,Protein (g),Fat (g),Carb (g)
+Persian,Breakfast,Nan-e Barbari,,50,140,4,1,27
+Persian,Breakfast,Persian Butter,,10,72,0,8,0
+Persian,Breakfast,Honey,,15,46,0,0,12
+Persian,Breakfast,Black Tea Leaves,,5,2,0,0,0
+Persian,Breakfast,Mast (Yogurt),,50,30,3,1,4
+Persian,Breakfast,Fresh Fig,,30,20,0,0,5
+Persian,Breakfast,Persian Nuts Mix,,20,120,3,10,5
+Persian,Breakfast,Persian Saffron,,1,2,0,0,0
+Persian,Breakfast,Chai Sugar,,5,20,0,0,5
+Persian,Breakfast,Strawberry,,30,10,0,0,2
+Persian,Breakfast,Nan-e Sangak,,50,140,4,1,28
+Persian,Breakfast,Butter,,10,72,0,8,0
+Persian,Breakfast,Honey,,15,46,0,0,12
+Persian,Breakfast,Dried Apricot,,20,48,1,0,11
+Persian,Breakfast,Black Tea,,200ml,2,0,0,0
+Persian,Breakfast,Almonds,,15,90,3,7,3
+Persian,Breakfast,Walnuts,,15,100,2,10,2
+Persian,Breakfast,Pistachios,,15,80,3,6,3
+Persian,Breakfast,Figs,,20,20,0,0,5
+Persian,Breakfast,Mint Leaves,,5,1,0,0,0
+Persian,Morning Snack,Dates,,50,140,1,0,37
+Persian,Morning Snack,Almonds,,30,160,6,14,6
+Persian,Morning Snack,Walnuts,,30,200,5,20,4
+Persian,Morning Snack,Pistachios,,30,160,6,13,7
+Persian,Morning Snack,Apple,,50,25,0,0,6
+Persian,Morning Snack,Carrot,,30,12,0,0,3
+Persian,Morning Snack,Cucumber,,50,8,0,0,2
+Persian,Morning Snack,Tomato,,50,10,0,0,2
+Persian,Morning Snack,Herbal Tea Leaves,,5,2,0,0,0
+Persian,Morning Snack,Pomegranate Seeds,,30,15,0,0,4
+Persian,Morning Snack,Low-fat Yogurt,,50,30,3,1,4
+Persian,Morning Snack,Orange,,50,24,0,0,6
+Persian,Morning Snack,Banana,,50,45,0,0,12
+Persian,Morning Snack,Grapes,,50,35,0,0,9
+Persian,Morning Snack,Dried Fig,,20,48,1,0,11
+Persian,Morning Snack,Almond Butter,,15,90,3,8,3
+Persian,Morning Snack,Walnut Halves,,15,100,2,10,2
+Persian,Morning Snack,Pistachio Kernels,,15,80,3,6,3
+Persian,Morning Snack,Herbal Tea,,200ml,2,0,0,0
+Persian,Lunch,Kabab Koobideh ,Ground Beef,400,800,80,60,0
+Persian,Lunch,Kabab Koobideh,Ground Lamb Fat,50,450,1,50,0
+Persian,Lunch,Kabab Koobideh,Onion,200,80,2,0,18
+Persian,Lunch,Kabab Koobideh,Salt,5,0,0,0,0
+Persian,Lunch,Kabab Koobideh,Black Pepper,1,3,0,0,1
+Persian,Lunch,Kabab Koobideh,Saffron,4,2,0,0,0
+Persian,Lunch,Kabab Koobideh,Butter,50,360,0,40,0
+Persian,Lunch,Kabab Koobideh,Pita Bread,50,140,4,1,27
+Persian,Lunch,Kabab Koobideh,Grilled Tomato,100,20,1,0,5
+Persian,Lunch,Kabab Koobideh,Grilled Pepper,50,15,0,0,3
+Persian,Lunch,Ghorme Sabzi,Beef Stew Meat,200,500,35,40,0
+Persian,Lunch,Ghorme Sabzi,Red Kidney Beans,50,110,7,0,20
+Persian,Lunch,Ghorme Sabzi,Spinach,50,12,1,0,2
+Persian,Lunch,Ghorme Sabzi,Parsley,20,5,0,0,1
+Persian,Lunch,Ghorme Sabzi,Cilantro,20,5,0,0,1
+Persian,Lunch,Ghorme Sabzi,Leek,30,10,0,0,2
+Persian,Lunch,Ghorme Sabzi,Onion,50,20,1,0,5
+Persian,Lunch,Ghorme Sabzi,Lemon Juice,10,4,0,0,1
+Persian,Lunch,Ghorme Sabzi,Oil,10,90,0,10,0
+Persian,Lunch,Ghorme Sabzi,Salt,3,0,0,0,0
+Persian,Lunch,Ghorme Sabzi,Black Pepper,1,3,0,0,1
+Persian,Lunch,Fesenjan,Chicken,200,330,30,20,0
+Persian,Lunch,Fesenjan,Walnuts,50,330,8,30,8
+Persian,Lunch,Fesenjan,Pomegranate Molasses,30,60,0,0,15
+Persian,Lunch,Fesenjan,Onion,50,20,1,0,5
+Persian,Lunch,Fesenjan,Salt,3,0,0,0,0
+Persian,Lunch,Fesenjan,Black Pepper,1,3,0,0,1
+Persian,Lunch,Fesenjan,Oil,10,90,0,10,0
+Persian,Lunch,Fesenjan,Water,100,0,0,0,0
+Persian,Lunch,Fesenjan,Basmati Rice,150,540,10,2,120
+Persian,Lunch,Fesenjan,Butter,20,144,0,16,0
+Persian,Lunch,Zereshk Polo,Chicken,150,250,30,10,0
+Persian,Lunch,Zereshk Polo,Basmati Rice,150,540,10,2,120
+Persian,Lunch,Zereshk Polo,Zereshk,30,90,1,0,20
+Persian,Lunch,Zereshk Polo,Butter,20,144,0,16,0
+Persian,Lunch,Zereshk Polo,Saffron,1,2,0,0,0
+Persian,Lunch,Zereshk Polo,Salt,3,0,0,0,0
+Persian,Lunch,Zereshk Polo,Black Pepper,1,3,0,0,1
+Persian,Lunch,Zereshk Polo,Onion,50,20,1,0,5
+Persian,Lunch,Zereshk Polo,Oil,10,90,0,10,0
+Persian,Lunch,Zereshk Polo,Water,100,0,0,0,0
+Persian,Afternoon Snack,Yogurt,,150,90,8,4,6
+Persian,Afternoon Snack,Cucumber,,50,8,0,0,2
+Persian,Afternoon Snack,Carrot,,50,20,0,0,5
+Persian,Afternoon Snack,Dates,,50,140,1,0,37
+Persian,Afternoon Snack,Almonds,,30,160,6,14,6
+Persian,Afternoon Snack,Walnuts,,30,200,5,20,4
+Persian,Afternoon Snack,Pistachios,,30,160,6,13,7
+Persian,Afternoon Snack,Apple,,50,25,0,0,6
+Persian,Afternoon Snack,Grapes,,50,35,0,0,9
+Persian,Afternoon Snack,Banana,,50,45,0,0,12
+Persian,Afternoon Snack,Herbal Tea,,200ml,2,0,0,0
+Persian,Afternoon Snack,Mint Leaves,,5,1,0,0,0
+Persian,Afternoon Snack,Fig,,30,20,0,0,5
+Persian,Afternoon Snack,Pomegranate Seeds,,30,15,0,0,4
+Persian,Afternoon Snack,Low-fat Yogurt,,50,30,3,1,4
+Persian,Afternoon Snack,Orange,,50,24,0,0,6
+Persian,Afternoon Snack,Dried Apricot,,20,48,1,0,11
+Persian,Afternoon Snack,Almond Butter,,15,90,3,8,3
+Persian,Afternoon Snack,Walnut Halves,,15,100,2,10,2
+Persian,Dinner,Ghorme Sabzi,Beef Stew Meat,200,500,35,40,0
+Persian,Dinner,Ghorme Sabzi,Red Kidney Beans,50,110,7,0,20
+Persian,Dinner,Ghorme Sabzi,Spinach,50,12,1,0,2
+Persian,Dinner,Ghorme Sabzi,Parsley,20,5,0,0,1
+Persian,Dinner,Ghorme Sabzi,Cilantro,20,5,0,0,1
+Persian,Dinner,Ghorme Sabzi,Leek,30,10,0,0,2
+Persian,Dinner,Ghorme Sabzi,Onion,50,20,1,0,5
+Persian,Dinner,Ghorme Sabzi,Lemon Juice,10,4,0,0,1
+Persian,Dinner,Ghorme Sabzi,Oil,10,90,0,10,0
+Persian,Dinner,Ghorme Sabzi,Salt,3,0,0,0,0
+Persian,Dinner,Ghorme Sabzi,Black Pepper,1,3,0,0,1
+Persian,Dinner,Fesenjan,Chicken,200,330,30,20,0
+Persian,Dinner,Fesenjan,Walnuts,50,330,8,30,8
+Persian,Dinner,Fesenjan,Pomegranate Molasses,30,60,0,0,15
+Persian,Dinner,Fesenjan,Onion,50,20,1,0,5
+Persian,Dinner,Fesenjan,Salt,3,0,0,0,0
+Persian,Dinner,Fesenjan,Black Pepper,1,3,0,0,1
+Persian,Dinner,Fesenjan,Oil,10,90,0,10,0
+Persian,Dinner,Fesenjan,Water,100,0,0,0,0
+Persian,Dinner,Fesenjan,Basmati Rice,150,540,10,2,120
+Persian,Dinner,Fesenjan,Butter,20,144,0,16,0
+Persian,Evening Snack,Dates,,50,140,1,0,37
+Persian,Evening Snack,Almonds,,30,160,6,14,6
+Persian,Evening Snack,Walnuts,,30,200,5,20,4
+Persian,Evening Snack,Pistachios,,30,160,6,13,7
+Persian,Evening Snack,Apple,,50,25,0,0,6
+Persian,Evening Snack,Carrot,,30,12,0,0,3
+Persian,Evening Snack,Cucumber,,50,8,0,0,2
+Persian,Evening Snack,Tomato,,50,10,0,0,2
+Persian,Evening Snack,Herbal Tea Leaves,,5,2,0,0,0
+Persian,Evening Snack,Pomegranate Seeds,,30,15,0,0,4
+Persian,Evening Snack,Low-fat Yogurt,,50,30,3,1,4
+Persian,Evening Snack,Orange,,50,24,0,0,6
+Persian,Evening Snack,Banana,,50,45,0,0,12
+Persian,Evening Snack,Grapes,,50,35,0,0,9
+Persian,Evening Snack,Dried Fig,,20,48,1,0,11
+Persian,Evening Snack,Almond Butter,,15,90,3,8,3
+Persian,Evening Snack,Walnut Halves,,15,100,2,10,2
+Persian,Evening Snack,Pistachio Kernels,,15,80,3,6,3
+Persian,Evening Snack,Herbal Tea,,200ml,2,0,0,0
+Italian,Breakfast,Frittata,Eggs,200,280,24,20,2
+Italian,Breakfast,Frittata,Parmesan Cheese,30,120,10,8,1
+Italian,Breakfast,Frittata,Onion,50,20,1,0,5
+Italian,Breakfast,Frittata,Bell Pepper,50,15,0,0,3
+Italian,Breakfast,Frittata,Spinach,30,7,1,0,1
+Italian,Breakfast,Frittata,Olive Oil,10,90,0,10,0
+Italian,Breakfast,Frittata,Salt,3,0,0,0,0
+Italian,Breakfast,Frittata,Black Pepper,1,3,0,0,1
+Italian,Breakfast,Cappuccino,Whole Milk,150,90,5,5,8
+Italian,Breakfast,Cappuccino,Espresso,30,5,0,0,1
+Italian,Breakfast,Cornetti Flour,,100,360,10,5,70
+Italian,Breakfast,Cornetti Butter,,30,215,0,24,0
+Italian,Breakfast,Cornetti Sugar,,10,40,0,0,10
+Italian,Breakfast,Cornetti Egg,,50,70,6,5,0
+Italian,Breakfast,Cornetti Yeast,,5,15,0,0,3
+Italian,Breakfast,Cornetti Milk,,30,20,1,1,3
+Italian,Breakfast,Cornetti Vanilla Extract,,2,6,0,0,1
+Italian,Breakfast,Cornetti Salt,,1,0,0,0,0
+Italian,Breakfast,Cornetti Lemon Zest,,2,2,0,0,1
+Italian,Morning Snack,Bruschetta,Tomato,50,10,0,0,2
+Italian,Morning Snack,Bruschetta,Basil,5,1,0,0,0
+Italian,Morning Snack,Bruschetta,Olive Oil,10,90,0,10,0
+Italian,Morning Snack,Bruschetta,Baguette,50,140,5,1,28
+Italian,Morning Snack,Bruschetta,Garlic,5,8,0,0,2
+Italian,Morning Snack,Mozzarella Stick,Mozzarella,50,150,12,10,1
+Italian,Morning Snack,Mozzarella Stick,Bread Crumbs,20,80,3,1,15
+Italian,Morning Snack,Mozzarella Stick,Egg,30,60,5,4,0
+Italian,Morning Snack,Mozzarella Stick,Oil,10,90,0,10,0
+Italian,Morning Snack,Olives,,50,115,1,11,2
+Italian,Lunch,Spaghetti Carbonara,Spaghetti,150,540,18,2,108
+Italian,Lunch,Spaghetti Carbonara,Egg,50,70,6,5,0
+Italian,Lunch,Spaghetti Carbonara,Pancetta,50,250,15,20,0
+Italian,Lunch,Spaghetti Carbonara,Parmesan Cheese,30,120,10,8,1
+Italian,Lunch,Spaghetti Carbonara,Black Pepper,1,3,0,0,1
+Italian,Lunch,Lasagna,Ground Beef,150,360,30,25,0
+Italian,Lunch,Lasagna,Lasagna Noodles,100,360,12,2,72
+Italian,Lunch,Lasagna,Tomato Sauce,100,40,2,0,10
+Italian,Lunch,Lasagna,Ricotta Cheese,50,150,10,10,2
+Italian,Lunch,Lasagna,Mozzarella Cheese,50,150,12,10,1
+Italian,Lunch,Minestrone Soup,Carrot,50,20,0,0,5
+Italian,Lunch,Minestrone Soup,Celery,50,10,0,0,2
+Italian,Lunch,Minestrone Soup,Onion,50,20,1,0,5
+Italian,Lunch,Minestrone Soup,Zucchini,50,10,0,0,2
+Italian,Lunch,Minestrone Soup,Tomato,50,10,0,0,2
+Italian,Lunch,Minestrone Soup,Olive Oil,10,90,0,10,0
+Italian,Afternoon Snack,Gelato,Milk,100,60,3,3,5
+Italian,Afternoon Snack,Gelato,Sugar,20,80,0,0,20
+Italian,Afternoon Snack,Gelato,Cream,30,100,1,10,1
+Italian,Afternoon Snack,Ciabatta Bread,Flour,50,180,6,1,36
+Italian,Afternoon Snack,Ciabatta Bread,Yeast,5,15,0,0,3
+Italian,Afternoon Snack,Ciabatta Bread,Salt,3,0,0,0,0
+Italian,Afternoon Snack,Ciabatta Bread,Olive Oil,10,90,0,10,0
+Italian,Dinner,Margherita Pizza,Dough,150,400,12,2,80
+Italian,Dinner,Margherita Pizza,Tomato Sauce,50,20,1,0,4
+Italian,Dinner,Margherita Pizza,Mozzarella,100,300,24,20,3
+Italian,Dinner,Margherita Pizza,Basil,5,1,0,0,0
+Italian,Dinner,Margherita Pizza,Olive Oil,10,90,0,10,0
+Italian,Dinner,Risotto,Arborio Rice,150,540,12,2,110
+Italian,Dinner,Risotto,Chicken Broth,100,20,2,0,2
+Italian,Dinner,Risotto,Parmesan Cheese,30,120,10,8,1
+Italian,Dinner,Risotto,Onion,50,20,1,0,5
+Italian,Dinner,Risotto,Olive Oil,10,90,0,10,0
+Italian,Evening Snack,Amaretti Cookies,Flour,50,180,6,1,36
+Italian,Evening Snack,Amaretti Cookies,Almonds,30,160,6,14,6
+Italian,Evening Snack,Amaretti Cookies,Sugar,20,80,0,0,20
+Italian,Evening Snack,Amaretti Cookies,Egg White,20,30,2,0,0
+Italian,Evening Snack,Tiramisu,Mascarpone,50,200,3,20,2
+Italian,Evening Snack,Tiramisu,Egg,30,60,6,4,0
+Italian,Evening Snack,Tiramisu,Sugar,20,80,0,0,20
+Italian,Evening Snack,Tiramisu,Cocoa Powder,5,20,1,1,2
+Italian,Evening Snack,Tiramisu,Sponge Cake,50,180,6,4,30
+Mexican,Breakfast,Huevos Rancheros,Eggs,200,280,24,20,2
+Mexican,Breakfast,Huevos Rancheros,Corn Tortilla,50,110,3,1,22
+Mexican,Breakfast,Huevos Rancheros,Black Beans,50,100,7,0,18
+Mexican,Breakfast,Huevos Rancheros,Salsa,30,15,0,0,3
+Mexican,Breakfast,Huevos Rancheros,Avocado,50,80,1,7,4
+Mexican,Breakfast,Huevos Rancheros,Cheddar Cheese,30,120,7,10,1
+Mexican,Breakfast,Chilaquiles,Corn Tortilla Chips,50,240,3,12,30
+Mexican,Breakfast,Chilaquiles,Green Salsa,50,20,1,0,4
+Mexican,Breakfast,Chilaquiles,Cilantro,5,1,0,0,0
+Mexican,Breakfast,Chilaquiles,Crema,20,40,1,4,1
+Mexican,Breakfast,Chilaquiles,Egg,50,70,6,5,0
+Mexican,Breakfast,Breakfast Burrito,Flour Tortilla,60,180,5,3,30
+Mexican,Breakfast,Breakfast Burrito,Egg,50,70,6,5,0
+Mexican,Breakfast,Breakfast Burrito,Chorizo,50,200,12,18,0
+Mexican,Breakfast,Breakfast Burrito,Cheddar Cheese,30,120,7,10,1
+Mexican,Breakfast,Breakfast Burrito,Avocado,30,50,1,4,2
+Mexican,Morning Snack,Guacamole,Avocado,100,160,2,15,8
+Mexican,Morning Snack,Guacamole,Tomato,50,10,0,0,2
+Mexican,Morning Snack,Guacamole,Onion,30,12,0,0,3
+Mexican,Morning Snack,Guacamole,Lime Juice,10,3,0,0,1
+Mexican,Morning Snack,Guacamole,Cilantro,5,1,0,0,0
+Mexican,Morning Snack,Tortilla Chips,Corn,50,240,3,12,30
+Mexican,Morning Snack,Tajin,Chili Powder,2,5,0,0,1
+Mexican,Morning Snack,Fruit Cup,Papaya,50,25,0,0,6
+Mexican,Morning Snack,Fruit Cup,Pineapple,50,25,0,0,6
+Mexican,Morning Snack,Fruit Cup,Mint Leaves,5,1,0,0,0
+Mexican,Lunch,Tacos Al Pastor,Pork,100,250,20,18,0
+Mexican,Lunch,Tacos Al Pastor,Corn Tortilla,50,110,3,1,22
+Mexican,Lunch,Tacos Al Pastor,Pineapple,20,10,0,0,2
+Mexican,Lunch,Tacos Al Pastor,Onion,20,8,0,0,2
+Mexican,Lunch,Tacos Al Pastor,Cilantro,5,1,0,0,0
+Mexican,Lunch,Chicken Fajitas,Chicken Breast,150,250,30,5,0
+Mexican,Lunch,Chicken Fajitas,Bell Peppers,50,15,0,0,3
+Mexican,Lunch,Chicken Fajitas,Onion,50,20,1,0,5
+Mexican,Lunch,Chicken Fajitas,Olive Oil,10,90,0,10,0
+Mexican,Lunch,Chicken Fajitas,Tortilla,50,110,3,1,22
+Mexican,Lunch,Enchiladas,Flour Tortilla,60,180,5,3,30
+Mexican,Lunch,Enchiladas,Shredded Chicken,100,165,31,4,0
+Mexican,Lunch,Enchiladas,Cheese,30,120,7,10,1
+Mexican,Lunch,Enchiladas,Enchilada Sauce,50,25,1,0,5
+Mexican,Lunch,Enchiladas,Onion,20,8,0,0,2
+Mexican,Lunch,Quesadilla,Flour Tortilla,60,180,5,3,30
+Mexican,Lunch,Quesadilla,Cheese,50,200,12,16,1
+Mexican,Lunch,Quesadilla,Chicken,50,80,10,3,1
+Mexican,Lunch,Quesadilla,Olive Oil,10,90,0,10,0
+Mexican,Lunch,Sopa Azteca,Chicken Broth,200,30,2,0,2
+Mexican,Lunch,Sopa Azteca,Tortilla Strips,50,240,3,12,30
+Mexican,Lunch,Sopa Azteca,Avocado,30,50,1,4,2
+Mexican,Lunch,Sopa Azteca,Cheese,20,80,4,6,1
+Mexican,Lunch,Sopa Azteca,Jalapeno,5,2,0,0,0
+Mexican,Afternoon Snack,Elote,Corn,100,90,3,1,19
+Mexican,Afternoon Snack,Elote,Mayo,10,70,0,8,0
+Mexican,Afternoon Snack,Elote,Cheese,20,80,4,6,1
+Mexican,Afternoon Snack,Elote,Chili Powder,2,5,0,0,1
+Mexican,Afternoon Snack,Elote,Lime Juice,5,1,0,0,1
+Mexican,Afternoon Snack,Churros,Flour,50,180,6,1,36
+Mexican,Afternoon Snack,Churros,Sugar,20,80,0,0,20
+Mexican,Afternoon Snack,Churros,Egg,30,60,6,5,0
+Mexican,Afternoon Snack,Churros,Butter,20,150,0,17,0
+Mexican,Afternoon Snack,Churros,Cinnamon,2,5,0,0,1
+Mexican,Dinner,Carne Asada,Beef,150,360,30,25,0
+Mexican,Dinner,Carne Asada,Olive Oil,10,90,0,10,0
+Mexican,Dinner,Carne Asada,Garlic,5,8,0,0,2
+Mexican,Dinner,Carne Asada,Lime Juice,10,3,0,0,1
+Mexican,Dinner,Fajitas Chicken,Chicken Breast,150,250,30,5,0
+Mexican,Dinner,Fajitas Chicken,Bell Pepper,50,15,0,0,3
+Mexican,Dinner,Fajitas Chicken,Onion,50,20,1,0,5
+Mexican,Dinner,Fajitas Chicken,Olive Oil,10,90,0,10,0
+Mexican,Dinner,Fajitas Chicken,Tortilla,50,110,3,1,22
+Mexican,Dinner,Tamales,Masa Harina,100,360,7,1,75
+Mexican,Dinner,Tamales,Pork Filling,80,200,15,14,0
+Mexican,Dinner,Tamales,Corn Husk,5,5,0,0,1
+Mexican,Dinner,Tamales,Olive Oil,10,90,0,10,0
+Mexican,Dinner,Tamales,Salt,2,0,0,0,0
+Mexican,Evening Snack,Paletas,Fruit Puree,100,50,0,0,12
+Mexican,Evening Snack,Paletas,Sugar,20,80,0,0,20
+Mexican,Evening Snack,Paletas,Water,50,0,0,0,0
+Mexican,Evening Snack,Pan Dulce,Flour,50,180,6,1,36
+Mexican,Evening Snack,Pan Dulce,Sugar,20,80,0,0,20
+Mexican,Evening Snack,Pan Dulce,Butter,20,150,0,17,0
+Mexican,Evening Snack,Pan Dulce,Egg,30,70,6,5,0
+Mexican,Evening Snack,Pan Dulce,Yeast,5,15,0,0,3
+Mediterranean,Breakfast,Shakshuka,Eggs,200,280,24,20,2
+Mediterranean,Breakfast,Shakshuka,Tomatoes,100,18,1,0,4
+Mediterranean,Breakfast,Shakshuka,Red Bell Pepper,50,15,0,0,3
+Mediterranean,Breakfast,Shakshuka,Onion,50,20,0,0,5
+Mediterranean,Breakfast,Shakshuka,Olive Oil,10,90,0,10,0
+Mediterranean,Breakfast,Shakshuka,Garlic,5,8,0,0,2
+Mediterranean,Breakfast,Shakshuka,Parsley,5,1,0,0,0
+Mediterranean,Breakfast,Greek Yogurt Bowl,Greek Yogurt,150,120,12,5,8
+Mediterranean,Breakfast,Greek Yogurt Bowl,Honey,20,60,0,0,17
+Mediterranean,Breakfast,Greek Yogurt Bowl,Blueberries,50,29,0,0,7
+Meditrean,Breakfast,Greek Yogurt Bowl,Almonds,20,120,4,10,4
+Mediterranean,Breakfast,Greek Yogurt Bowl,Granola,30,120,3,4,20
+Mediterranean,Breakfast,Mediterranean Omelette,Eggs,200,280,24,20,2
+Mediterranean,Breakfast,Mediterranean Omelette,Feta Cheese,30,80,5,6,1
+Mediterranean,Breakfast,Mediterranean Omelette,Spinach,50,12,1,0,2
+Mediterranean,Breakfast,Mediterranean Omelette,Tomatoes,50,9,0,0,2
+Mediterranean,Breakfast,Mediterranean Omelette,Olive Oil,10,90,0,10,0
+Mediterranean,Morning Snack,Hummus,Chickpeas,100,164,9,3,27
+Mediterranean,Morning Snack,Hummus,Tahini,20,120,4,10,3
+Mediterranean,Morning Snack,Hummus,Lemon Juice,10,3,0,0,1
+Mediterranean,Morning Snack,Hummus,Garlic,5,8,0,0,2
+Meditanean,Morning Snack,Hummus,Olive Oil,10,90,0,10,0
+Mediterranean,Morning Snack,Greek Salad,Tomatoes,50,9,0,0,2
+Mediterranean,Morning Snack,Greek Salad,Cucumber,50,8,0,0,2
+Meditanean,Morning Snack,Greek Salad,Onion,20,8,0,0,2
+Mediterranean,Morning Snack,Greek Salad,Feta Cheese,30,80,5,6,1
+Mediterranean,Morning Snack,Greek Salad,Olive Oil,10,90,0,10,0
+Mediterranean,Lunch,Grilled Chicken Souvlaki,Chicken Breast,150,250,30,5,0
+Mediterranean,Lunch,Grilled Chicken Souvlaki,Olive Oil,10,90,0,10,0
+Mediterranean,Lunch,Grilled Chicken Souvlaki,Lemon Juice,10,3,0,0,1
+Mediterranean,Lunch,Grilled Chicken Souvlaki,Garlic,5,8,0,0,2
+Mediterranean,Lunch,Grilled Chicken Souvlaki,Oregano,2,5,0,0,1
+Mediterranean,Lunch,Moussaka,Eggplant,150,35,1,0,8
+Mediterranean,Lunch,Moussaka,Ground Beef,100,250,20,18,0
+Mediterranean,Lunch,Moussaka,Onion,50,20,0,0,5
+Mediterranean,Lunch,Moussaka,Tomato Paste,20,15,1,0,3
+Mediterranean,Lunch,Moussaka,Béchamel Sauce,50,120,4,8,6
+Mediterranean,Lunch,Moussaka,Olive Oil,10,90,0,10,0
+Mediterranean,Lunch,Tabbouleh,Bulgur,50,150,5,1,33
+Mediterranean,Lunch,Tabbouleh,Parsley,50,20,2,0,4
+Meditanean,Lunch,Tabbouleh,Tomatoes,50,9,0,0,2
+Meditanean,Lunch,Tabbouleh,Cucumber,50,8,0,0,2
+Meditanean,Lunch,Tabbouleh,Lemon Juice,10,3,0,0,1
+Mediterranean,Lunch,Falafel,Chickpeas,100,164,9,3,27
+Mediterranean,Lunch,Falafel,Parsley,10,2,0,0,0
+Mediterranean,Lunch,Falafel,Garlic,5,8,0,0,2
+Meditanean,Lunch,Falafel,Cumin,2,5,0,0,1
+Mediterranean,Lunch,Falafel,Olive Oil,10,90,0,10,0
+Mediterranean,Afternoon Snack,Olives,Black Olives,50,115,1,11,6
+Mediterranean,Afternoon Snack,Olives,Green Olives,50,145,1,15,3
+Mediterranean,Afternoon Snack,Nuts,Mixed Nuts,30,180,5,15,5
+Mediterranean,Afternoon Snack,Fruit,Orange,100,47,1,0,12
+Mediterranean,Afternoon Snack,Fruit,Apple,100,52,0,0,14
+Mediterranean,Dinner,Grilled Salmon,Salmon,150,280,25,18,0
+Mediterranean,Dinner,Grilled Salmon,Olive Oil,10,90,0,10,0
+Mediterranean,Dinner,Grilled Salmon,Lemon Juice,10,3,0,0,1
+Mediterranean,Dinner,Grilled Salmon,Garlic,5,8,0,0,2
+Mediterranean,Dinner,Grilled Salmon,Parsley,5,1,0,0,0
+Mediterranean,Dinner,Ratatouille,Zucchini,100,17,1,0,3
+Mediterranean,Dinner,Ratatouille,Eggplant,100,25,1,0,6
+Mediterranean,Dinner,Ratatouille,Tomato,50,9,0,0,2
+Mediterranean,Dinner,Ratatouille,Bell Pepper,50,15,0,0,3
+Mediterranean,Dinner,Ratatouille,Olive Oil,10,90,0,10,0
+Mediterranean,Dinner,Pasta Primavera,Pasta,100,350,12,2,70
+Mediterranean,Dinner,Pasta Primavera,Zucchini,50,9,1,0,2
+Mediterranean,Dinner,Pasta Primavera,Broccoli,50,17,1,0,4
+Mediterranean,Dinner,Pasta Primavera,Olive Oil,10,90,0,10,0
+Mediterranean,Dinner,Pasta Primavera,Parmesan Cheese,20,80,7,5,1
+Mediterranean,Evening Snack,Yogurt with Honey,Greek Yogurt,150,120,12,5,8
+Mediterranean,Evening Snack,Yogurt with Honey,Honey,20,60,0,0,17
+Mediterranean,Evening Snack,Fruit Salad,Apple,50,26,0,0,7
+Mediterranean,Evening Snack,Fruit Salad,Orange,50,23,0,0,6
+Mediterranean,Evening Snack,Fruit Salad,Grapes,50,35,0,0,9
+Mediterranean,Evening Snack,Fruit Salad,Mint Leaves,5,1,0,0,0
+Indian,Breakfast,Masala Omelette,Eggs,200,280,24,20,2
+Indian,Breakfast,Masala Omelette,Onion,50,20,0,0,5
+Indian,Breakfast,Masala Omelette,Tomatoes,50,9,0,0,2
+Indian,Breakfast,Masala Omelette,Green Chili,5,3,0,0,1
+Indian,Breakfast,Masala Omelette,Cilantro,5,1,0,0,0
+Indian,Breakfast,Paneer Paratha,Whole Wheat Flour,100,340,12,2,70
+Indian,Breakfast,Paneer Paratha,Paneer,50,120,8,9,2
+Indian,Breakfast,Paneer Paratha,Ghee,10,90,0,10,0
+Indian,Breakfast,Paneer Paratha,Cumin Seeds,2,8,0,0,1
+Indian,Breakfast,Paneer Paratha,Salt,1,0,0,0,0
+Indian,Breakfast,Idli,Rice Flour,100,350,7,1,77
+Indian,Breakfast,Idli,Urad Dal,50,150,10,1,27
+Indian,Breakfast,Idli,Water,100,0,0,0,0
+Indian,Breakfast,Idli,Salt,2,0,0,0,0
+Indian,Breakfast,Idli,Oil,5,45,0,5,0
+Indian,Morning Snack,Samosa,Potatoes,50,80,2,0,18
+Indian,Morning Snack,Samosa,Peas,20,15,1,0,3
+Indian,Morning Snack,Samosa,Onion,20,8,0,0,2
+Indian,Morning Snack,Samosa,Whole Wheat Flour,30,102,3,1,21
+Indian,Morning Snack,Samosa,Ghee,10,90,0,10,0
+Indian,Morning Snack,Vada,Potatoes,50,80,2,0,18
+Indian,Morning Snack,Vada,Urad Dal,30,110,7,0,20
+Indian,Morning Snack,Vada,Spices,5,5,0,0,1
+Indian,Morning Snack,Vada,Oil,10,90,0,10,0
+Indian,Morning Snack,Vada,Curry Leaves,2,1,0,0,0
+Indian,Lunch,Butter Chicken,Chicken,150,250,30,5,0
+Indian,Lunch,Butter Chicken,Butter,20,145,0,16,0
+Indian,Lunch,Butter Chicken,Cream,30,120,1,12,1
+Indian,Lunch,Butter Chicken,Tomatoes,50,9,0,0,2
+Indian,Lunch,Butter Chicken,Onion,50,20,0,0,5
+Indian,Lunch,Butter Chicken,Garlic,5,8,0,0,2
+Indian,Lunch,Butter Chicken,Ginger,5,4,0,0,1
+Indian,Lunch,Butter Chicken,Spices,5,15,0,1,3
+Indian,Lunch,Butter Chicken,Cilantro,5,1,0,0,0
+Indian,Lunch,Chole,Chickpeas,100,164,9,3,27
+Indian,Lunch,Chole,Onion,50,20,0,0,5
+Indian,Lunch,Chole,Tomatoes,50,9,0,0,2
+Indian,Lunch,Chole,Ginger,5,4,0,0,1
+Indian,Lunch,Chole,Garlic,5,8,0,0,2
+Indian,Lunch,Chole,Oil,10,90,0,10,0
+Indian,Lunch,Chole,Spices,5,15,0,1,3
+Indian,Lunch,Chole,Cilantro,5,1,0,0,0
+Indian,Lunch,Chole,Lemon Juice,10,3,0,0,1
+Indian,Lunch,Palak Paneer,Spinach,100,23,3,0,4
+Indian,Lunch,Palak Paneer,Paneer,50,120,8,9,2
+Indian,Lunch,Palak Paneer,Onion,50,20,0,0,5
+Indian,Lunch,Palak Paneer,Tomatoes,50,9,0,0,2
+Indian,Lunch,Palak Paneer,Cream,20,80,1,8,1
+Indian,Lunch,Palak Paneer,Spices,5,15,0,1,3
+Indian,Afternoon Snack,Masala Chai,Tea Leaves,5,2,0,0,0
+Indian,Afternoon Snack,Masala Chai,Milk,100,60,3,3,5
+Indian,Afternoon Snack,Masala Chai,Sugar,10,40,0,0,10
+Indian,Afternoon Snack,Masala Chai,Cardamom,1,3,0,0,1
+Indian,Afternoon Snack,Masala Chai,Ginger,2,2,0,0,0
+Indian,Afternoon Snack,Papadum,Lentil Flour,20,90,4,1,14
+Indian,Afternoon Snack,Papadum,Spices,2,5,0,0,1
+Indian,Afternoon Snack,Papadum,Salt,1,0,0,0,0
+Indian,Afternoon Snack,Papadum,Oil,5,45,0,5,0
+Indian,Afternoon Snack,Fruit,Guava,50,35,1,0,9
+Indian,Dinner,Biryani,Chicken,150,250,30,5,0
+Indian,Dinner,Biryani,Rice,100,350,7,1,77
+Indian,Dinner,Biryani,Onion,50,20,0,0,5
+Indian,Dinner,Biryani,Tomato,50,9,0,0,2
+Indian,Dinner,Biryani,Spices,5,15,0,1,3
+Indian,Dinner,Biryani,Yogurt,50,31,3,2,2
+Indian,Dinner,Paneer Tikka,Paneer,100,240,16,16,4
+Indian,Dinner,Paneer Tikka,Red Bell Pepper,50,15,0,0,3
+Indian,Dinner,Paneer Tikka,Onion,50,20,0,0,5
+Indian,Dinner,Paneer Tikka,Yogurt Marinade,30,60,2,3,5
+Indian,Dinner,Paneer Tikka,Spices,5,15,0,1,3
+Indian,Dinner,Tandoori Chicken,Chicken,150,250,30,5,0
+Indian,Dinner,Tandoori Chicken,Yogurt,50,31,3,2,2
+Indian,Dinner,Tandoori Chicken,Garlic,5,8,0,0,2
+Indian,Dinner,Tandoori Chicken,Ginger,5,4,0,0,1
+Indian,Dinner,Tandoori Chicken,Spices,5,15,0,1,3
+Indian,Dinner,Tandoori Chicken,Lemon Juice,10,3,0,0,1
+Indian,Evening Snack,Roasted Chickpeas,Chickpeas,50,82,4,1,13
+Indian,Evening Snack,Roasted Chickpeas,Olive Oil,5,45,0,5,0
+Indian,Evening Snack,Roasted Chickpeas,Spices,2,5,0,0,1
+Indian,Evening Snack,Fruit,Apple,50,26,0,0,7
+Indian,Evening Snack,Fruit,Mango,50,60,0,0,15
+Indian,Evening Snack,Fruit,Banana,50,45,1,0,12
+Indian,Evening Snack,Fruit Papaya,,50,20,0,0,5
+Indian,Evening Snack,Nuts,Mixed Nuts,20,120,4,10,2
+Japanese,Breakfast,Miso Soup,Miso Paste,30,70,5,2,8
+Japanese,Breakfast,Miso Soup,Tofu,50,40,4,2,1
+Japanese,Breakfast,Miso Soup,Seaweed,5,2,0,0,1
+Japanese,Breakfast,Miso Soup,Green Onion,10,3,0,0,1
+Japanese,Breakfast,Steamed Rice,Rice,150,200,4,0,44
+Japanese,Breakfast,Tamagoyaki,Eggs,100,140,12,10,1
+Japanese,Breakfast,Tamagoyaki,Sugar,5,20,0,0,5
+Japanese,Breakfast,Tamagoyaki,Soy Sauce,5,5,0,0,1
+Japanese,Breakfast,Natto Rice,Natto,50,100,8,5,5
+Japanese,Breakfast,Natto Rice,Rice,100,130,3,0,28
+Japanese,Morning Snack,Rice Crackers,Rice Flour,50,180,3,1,40
+Japanese,Morning Snack,Rice Crackers,Soy Sauce,5,5,0,0,1
+Japanese,Morning Snack,Green Tea,Tea Leaves,2,1,0,0,0
+Japanese,Morning Snack,Green Tea,Water,150,0,0,0,0
+Japanese,Morning Snack,Edamame,Edamame,100,120,11,5,9
+Japanese,Morning Snack,Edamame,Salt,1,0,0,0,0
+Japanese,Lunch,Sushi,Rice,100,130,3,0,28
+Japanese,Lunch,Sushi,Salmon,50,100,10,6,0
+Japanese,Lunch,Sushi,Avocado,30,50,1,5,3
+Japanese,Lunch,Sushi,Nori,5,5,1,0,1
+Japanese,Lunch,Ramen,Noodles,100,350,10,3,65
+Japanese,Lunch,Ramen,Chicken Broth,150,30,5,0,2
+Japanese,Lunch,Ramen,Pork,50,120,10,8,0
+Japanese,Lunch,Ramen,Scallions,10,3,0,0,1
+Japanese,Lunch,Ramen,Egg,50,70,6,5,1
+Japanese,Lunch,Tempura,Shrimp,50,60,10,1,1
+Japanese,Lunch,Tempura,Flour,30,110,3,0,23
+Japanese,Lunch,Tempura,Egg,10,15,1,1,0
+Japanese,Lunch,Tempura,Oil,10,90,0,10,0
+Japanese,Afternoon Snack,Onigiri,Rice,80,105,2,0,23
+Japanese,Afternoon Snack,Onigiri,Nori,5,5,1,0,1
+Japanese,Afternoon Snack,Onigiri,Umeboshi,5,10,0,0,2
+Japanese,Afternoon Snack,Fruit,Melon,50,20,0,0,5
+Japanese,Afternoon Snack,Fruit,Apple,50,26,0,0,7
+Japanese,Afternoon Snack,Fruit,Pear,50,25,0,0,6
+Japanese,Afternoon Snack,Sweet Potato,Yaki Imo,100,90,1,0,21
+Japanese,Dinner,Sashimi,Salmon,100,200,20,13,0
+Japanese,Dinner,Sashimi,Tuna,100,130,28,1,0
+Japanese,Dinner,Chicken Teriyaki,Chicken,150,250,30,5,0
+Japanese,Dinner,Chicken Teriyaki,Teriyaki Sauce,30,60,1,0,12
+Japanese,Dinner,Chicken Teriyaki,Vegetables (Carrot/Broccoli),100,50,3,0,10
+Japanese,Dinner,Tempura Vegetables,Sweet Potato,50,45,0,0,11
+Japanese,Dinner,Tempura Vegetables,Zucchini,50,20,1,0,4
+Japanese,Dinner,Tempura Vegetables,Oil,10,90,0,10,0
+Japanese,Dinner,Miso Glazed Eggplant,Eggplant,100,35,1,0,8
+Japanese,Dinner,Miso Glazed Eggplant,Miso Paste,20,45,4,1,6
+Japanese,Dinner,Miso Glazed Eggplant,Sesame Oil,5,45,0,5,0
+Japanese,Evening Snack,Senbei,Rice Flour,50,180,3,1,40
+Japanese,Evening Snack,Senbei,Soy Sauce,5,5,0,0,1
+Japanese,Evening Snack,Green Tea,Tea Leaves,2,1,0,0,0
+Japanese,Evening Snack,Green Tea,Water,150,0,0,0,0
+Japanese,Evening Snack,Nuts,Mixed Nuts,20,120,4,10,2
+Japanese,Evening Snack,Fruit,Kiwi,50,25,0,0,6
+Japanese,Evening Snack,Fruit,Orange,50,23,0,0,6
+Japanese,Evening Snack,Fruit,Persimmon,50,35,1,0,9
+Chinese,Breakfast,Congee,Rice,100,130,3,0,28
+Chinese,Breakfast,Congee,Chicken,50,80,10,2,0
+Chinese,Breakfast,Congee,Ginger,5,5,0,0,1
+Chinese,Breakfast,Congee,Green Onion,5,2,0,0,1
+Chinese,Breakfast,Steamed Bun,Flour,80,220,6,1,45
+Chinese,Breakfast,Steamed Bun,Pork,30,70,6,4,0
+Chinese,Breakfast,Steamed Bun,Sugar,5,20,0,0,5
+Chinese,Breakfast,Tea,Tea Leaves,2,1,0,0,0
+Chinese,Breakfast,Tea,Water,150,0,0,0,0
+Chinese,Breakfast,You Tiao,Flour,50,180,5,1,38
+Chinese,Morning Snack,Fruit,Apple,50,26,0,0,7
+Chinese,Morning Snack,Fruit,Pear,50,25,0,0,6
+Chinese,Morning Snack,Nuts,Mixed Nuts,20,120,4,10,2
+Chinese,Morning Snack,Green Tea,Tea Leaves,2,1,0,0,0
+Chinese,Morning Snack,Green Tea,Water,150,0,0,0,0
+Chinese,Morning Snack,Steamed Corn,Corn,100,90,3,1,19
+Chinese,Lunch,Fried Rice,Rice,150,200,4,0,44
+Chinese,Lunch,Fried Rice,Egg,50,70,6,5,1
+Chinese,Lunch,Fried Rice,Chicken,50,80,10,2,0
+Chinese,Lunch,Fried Rice,Carrot,30,12,0,0,3
+Chinese,Lunch,Fried Rice,Green Peas,30,25,2,0,5
+Chinese,Lunch,Mapo Tofu,Tofu,100,80,8,4,2
+Chinese,Lunch,Mapo Tofu,Ground Pork,50,120,10,8,0
+Chinese,Lunch,Mapo Tofu,Chili Bean Paste,10,30,1,0,6
+Chinese,Lunch,Mapo Tofu,Green Onion,10,3,0,0,1
+Chinese,Lunch,Mapo Tofu,Ginger,5,5,0,0,1
+Chinese,Lunch,Hot and Sour Soup,Tofu,50,40,4,2,1
+Chinese,Lunch,Hot and Sour Soup,Pork,50,80,10,6,0
+Chinese,Lunch,Hot and Sour Soup,Mushroom,20,5,1,0,1
+Chinese,Lunch,Hot and Sour Soup,Vinegar,5,2,0,0,1
+Chinese,Lunch,Hot and Sour Soup,Carrot,20,8,0,0,2
+Chinese,Afternoon Snack,Steamed Bun,Flour,50,140,4,0,30
+Chinese,Afternoon Snack,Steamed Bun,Red Bean Paste,20,50,1,0,12
+Chinese,Afternoon Snack,Fruit,Melon,50,20,0,0,5
+Chinese,Afternoon Snack,Fruit,Orange,50,23,0,0,6
+Chinese,Afternoon Snack,Nuts,Almonds,20,120,4,10,2
+Chinese,Afternoon Snack,Green Tea,Tea Leaves,2,1,0,0,0
+Chinese,Afternoon Snack,Green Tea,Water,150,0,0,0,0
+Chinese,Dinner,Sweet and Sour Pork,Pork,150,250,25,15,0
+Chinese,Dinner,Sweet and Sour Pork,Pineapple,50,25,0,0,6
+Chinese,Dinner,Sweet and Sour Pork,Carrot,30,12,0,0,3
+Chinese,Dinner,Sweet and Sour Pork,Bell Pepper,30,10,0,0,2
+Chinese,Dinner,Sweet and Sour Pork,Sauce,20,30,1,0,7
+Chinese,Dinner,Kung Pao Chicken,Chicken,150,250,30,5,0
+Chinese,Dinner,Kung Pao Chicken,Peanuts,20,120,5,10,4
+Chinese,Dinner,Kung Pao Chicken,Chili,5,5,0,0,1
+Chinese,Dinner,Kung Pao Chicken,Vegetables (Carrot/Bell Pepper),50,20,1,0,5
+Chinese,Dinner,Kung Pao Chicken,Sauce,15,30,0,0,7
+Chinese,Dinner,Ma Po Eggplant,Eggplant,100,35,1,0,8
+Chinese,Dinner,Ma Po Eggplant,Ground Pork,50,120,10,8,0
+Chinese,Dinner,Ma Po Eggplant,Soy Sauce,10,5,0,0,1
+Chinese,Dinner,Ma Po Eggplant,Chili Paste,5,5,0,0,1
+Chinese,Evening Snack,Rice Crackers,Rice Flour,50,180,3,1,40
+Chinese,Evening Snack,Rice Crackers,Soy Sauce,5,5,0,0,1
+Chinese,Evening Snack,Green Tea,Tea Leaves,2,1,0,0,0
+Chinese,Evening Snack,Green Tea,Water,150,0,0,0,0
+Chinese,Evening Snack,Fruit,Kiwi,50,25,0,0,6
+Chinese,Evening Snack,Fruit,Mango,50,40,0,0,10
+Chinese,Evening Snack,Nuts,Mixed Nuts,20,120,4,10,2
+Chinese,Evening Snack,Dumplings,Pork,50,120,10,8,0
+Chinese,Evening Snack,Dumplings,Cabbage,30,5,1,0,1
+Chinese,Evening Snack,Dumplings,Flour,20,70,2,0,15
+Chinese,Evening Snack,Dumplings,Ginger,5,5,0,0,1
+Chinese,Evening Snack,Dumplings,Soy Sauce,5,5,0,0,1
+Indian,Breakfast,Idli,Rice,100,130,3,0,28
+Indian,Breakfast,Idli,Urad Dal,30,90,8,0,18
+Indian,Breakfast,Idli,Water,50,0,0,0,0
+Indian,Breakfast,Idli,Salt,2,0,0,0,0
+Indian,Breakfast,Dhokla,Gram Flour,80,300,12,5,40
+Indian,Breakfast,Dhokla,Yogurt,30,20,2,1,2
+Indian,Breakfast,Dhokla,Water,50,0,0,0,0
+Indian,Breakfast,Dhokla,Eno,2,5,0,0,1
+Indian,Breakfast,Paratha,Wheat Flour,80,220,6,1,45
+Indian,Breakfast,Paratha,Ghee,10,90,0,10,0
+Indian,Breakfast,Paratha,Salt,2,0,0,0,0
+Indian,Morning Snack,Samosa,Potato,50,70,2,0,15
+Indian,Morning Snack,Samosa,Peas,20,15,1,0,3
+Indian,Morning Snack,Samosa,Flour,30,110,3,1,22
+Indian,Morning Snack,Samosa,Oil,10,90,0,10,0
+Indian,Morning Snack,Fruit,Mango,50,40,0,0,10
+Indian,Morning Snack,Fruit,Papaya,50,25,0,0,6
+Indian,Morning Snack,Nuts,Almonds,20,120,4,10,2
+Indian,Morning Snack,Tea,Tea Leaves,2,1,0,0,0
+Indian,Morning Snack,Tea,Water,150,0,0,0,0
+Indian,Lunch,Butter Chicken,Chicken,150,250,30,5,0
+Indian,Lunch,Butter Chicken,Butter,20,150,0,17,0
+Indian,Lunch,Butter Chicken,Tomato Puree,30,10,0,0,2
+Indian,Lunch,Butter Chicken,Cream,20,80,1,8,1
+Indian,Lunch,Butter Chicken,Spices,5,5,0,0,1
+Indian,Lunch,Paneer Butter Masala,Paneer,100,265,18,20,6
+Indian,Lunch,Paneer Butter Masala,Butter,15,110,0,12,0
+Indian,Lunch,Paneer Butter Masala,Tomato Puree,30,10,0,0,2
+Indian,Lunch,Paneer Butter Masala,Cream,10,40,0,4,1
+Indian,Lunch,Paneer Butter Masala,Spices,5,5,0,0,1
+Indian,Lunch,Chole,Chickpeas,100,160,9,2,27
+Indian,Lunch,Chole,Onion,30,12,0,0,3
+Indian,Lunch,Chole,Tomato,30,5,0,0,1
+Indian,Lunch,Chole,Oil,10,90,0,10,0
+Indian,Lunch,Chole,Spices,5,5,0,0,1
+Indian,Lunch,Biryani,Rice,150,200,4,0,44
+Indian,Lunch,Biryani,Chicken,50,80,10,2,0
+Indian,Lunch,Biryani,Onion,30,12,0,0,3
+Indian,Lunch,Biryani,Spices,5,5,0,0,1
+Indian,Lunch,Biryani,Ghee,10,90,0,10,0
+Indian,Afternoon Snack,Pakora,Gram Flour,50,180,8,5,25
+Indian,Afternoon Snack,Pakora,Vegetables,50,30,1,0,6
+Indian,Afternoon Snack,Pakora,Oil,10,90,0,10,0
+Indian,Afternoon Snack,Fruit,Banana,50,45,1,0,12
+Indian,Afternoon Snack,Fruit,Apple,50,26,0,0,7
+Indian,Afternoon Snack,Nuts,Cashews,20,120,4,10,2
+Indian,Afternoon Snack,Tea,Tea Leaves,2,1,0,0,0
+Indian,Afternoon Snack,Tea,Water,150,0,0,0,0
+Indian,Dinner,Mutton Curry,Mutton,150,300,30,20,0
+Indian,Dinner,Mutton Curry,Onion,30,12,0,0,3
+Indian,Dinner,Mutton Curry,Tomato,30,5,0,0,1
+Indian,Dinner,Mutton Curry,Oil,15,135,0,15,0
+Indian,Dinner,Mutton Curry,Spices,5,5,0,0,1
+Indian,Dinner,Aloo Gobi,Potato,100,80,2,0,18
+Indian,Dinner,Aloo Gobi,Cauliflower,100,25,2,0,5
+Indian,Dinner,Aloo Gobi,Oil,10,90,0,10,0
+Indian,Dinner,Aloo Gobi,Spices,5,5,0,0,1
+Indian,Dinner,Aloo Gobi,Tomato,20,4,0,0,1
+Indian,Dinner,Tandoori Chicken,Chicken,150,250,30,5,0
+Indian,Dinner,Tandoori Chicken,Spices,10,5,0,0,1
+Indian,Dinner,Tandoori Chicken,Yogurt,30,20,2,1,2
+Indian,Dinner,Tandoori Chicken,Lemon Juice,10,2,0,0,1
+Indian,Dinner,Tandoori Chicken,Oil,5,45,0,5,0
+Indian,Evening Snack,Samosa,Potato,50,70,2,0,15
+Indian,Evening Snack,Samosa,Peas,20,15,1,0,3
+Indian,Evening Snack,Samosa,Flour,30,110,3,1,22
+Indian,Evening Snack,Samosa,Oil,10,90,0,10,0
+Indian,Evening Snack,Fruit,Mango,50,40,0,0,10
+Indian,Evening Snack,Fruit,Papaya,50,25,0,0,6
+Indian,Evening Snack,Nuts,Almonds,20,120,4,10,2
+Indian,Evening Snack,Tea,Tea Leaves,2,1,0,0,0
+Indian,Evening Snack,Tea,Water,150,0,0,0,0
+Indian,Evening Snack,Dhokla,Gram Flour,80,300,12,5,40
+Indian,Evening Snack,Dhokla,Yogurt,30,20,2,1,2
+Indian,Evening Snack,Dhokla,Water,50,0,0,0,0
+Indian,Evening Snack,Dhokla,Eno,2,5,0,0,1

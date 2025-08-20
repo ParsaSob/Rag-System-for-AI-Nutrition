@@ -1,0 +1,15 @@
+{
+    "Name": "market-mine-tg",
+    "Protocol": "HTTP",
+    "Port": 8501,
+    "VpcId": "YOUR_VPC_ID",
+    "HealthCheckPath": "/",
+    "HealthCheckIntervalSeconds": 30,
+    "HealthCheckTimeoutSeconds": 5,
+    "HealthyThresholdCount": 2,
+    "UnhealthyThresholdCount": 2,
+    "Matcher": {
+        "HttpCode": "200"
+    },
+    "TargetType": "ip"
+} 

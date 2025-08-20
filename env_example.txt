@@ -1,0 +1,16 @@
+# Environment Variables for RAG System
+# Copy this file to .env and fill in your actual values
+
+# OpenAI Configuration (Required for AI responses)
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Supabase Configuration (Optional - for embedding cache)
+# Get these from your Supabase project settings > API
+SUPABASE_URL=https://your-project-id.supabase.co
+SUPABASE_ANON_KEY=your-anon-key-here
+
+# Alternative: You can also set these in .streamlit/secrets.toml instead:
+# [secrets]
+# OPENAI_API_KEY = "sk-your-openai-api-key-here"
+# SUPABASE_URL = "https://your-project-id.supabase.co"
+# SUPABASE_ANON_KEY = "your-anon-key-here"

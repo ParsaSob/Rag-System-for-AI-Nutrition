@@ -1,0 +1,15 @@
+streamlit==1.32.0
+langchain==0.1.12
+langchain-openai==0.0.8
+PyMuPDF==1.25.4  # PyMuPDF for PDF text extraction
+python-dotenv==1.0.1
+plotly==5.19.0  # For visualization of semantic search results
+numpy==1.26.4  # For numerical operations and cosine similarity
+tiktoken==0.6.0
+pytest==8.0.0  # For running tests
+pandas==2.2.2
+openpyxl==3.1.2
+supabase==2.3.4  # For caching embeddings
+fastapi==0.104.1  # For API server
+uvicorn[standard]==0.24.0  # ASGI server
+python-multipart==0.0.6  # For form data parsing

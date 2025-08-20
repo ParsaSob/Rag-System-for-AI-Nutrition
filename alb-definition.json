@@ -1,0 +1,8 @@
+{
+    "Name": "market-mine-alb",
+    "Subnets": ["YOUR_SUBNET_ID_1", "YOUR_SUBNET_ID_2"],
+    "SecurityGroups": ["YOUR_SECURITY_GROUP_ID"],
+    "Scheme": "internet-facing",
+    "Type": "application",
+    "IpAddressType": "ipv4"
+} 
