@@ -20,12 +20,18 @@ class SupabaseService:
             return
         
         try:
-            from supabase import create_client, Client
+            from supabase import create_client
             
+            # Simple client creation without extra options
             self.client = create_client(SUPABASE_URL, SUPABASE_KEY)
             logger.info("Supabase client initialized successfully")
+        except ImportError:
+            logger.warning("Supabase package not installed. Embedding cache disabled.")
+            self.client = None
         except Exception as e:
             logger.error(f"Failed to initialize Supabase client: {str(e)}")
+            # In production, disable Supabase if it fails rather than crashing
+            logger.warning("Continuing without Supabase cache...")
             self.client = None
     
     def is_available(self) -> bool:
